@@ -11,6 +11,7 @@ dpkg-deb --build -Zgzip "PrecursorKeypad"
 dpkg-deb --build -Zgzip "RomanNumeralKeypad"
 dpkg-deb --build -Zgzip "Snipe"
 dpkg-deb --build -Zgzip "ZeppelinSonictheHedgehog"
+dpkg-deb --build -Zgzip "Package"
 
 dpkg-scanpackages -m . /dev/null > Packages
 bzip2 Packages
