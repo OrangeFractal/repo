@@ -1,8 +1,8 @@
-Package: net.orangefractal.Snipe
-Name: Snipe Message Bubbles
+Package: net.orangefractal.ZeppelinSonictheHedgehog
+Name: Zeppelin - Sonic the Hedgehog
 Version: 1.0
 Architecture: iphoneos-arm
-Description: Snipe stylized message bubbles
+Description: Sonic the Hedgehog Zeppelin icons
 Homepage: http://repo.orangefractal.net
 Maintainer: OrangeFractal <OrangeFractal@gmail.com>
 Author: OrangeFractal <OrangeFractal@gmail.com>
