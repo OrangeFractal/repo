@@ -1,0 +1,9 @@
+Package: net.orangefractal.LCDKeypad
+Name: LCD Keypad
+Version: 1.0
+Architecture: iphoneos-arm
+Description: LCD style keypad in black and white
+Homepage: http://repo.orangefractal.net
+Maintainer: OrangeFractal <OrangeFractal@gmail.com>
+Author: OrangeFractal <OrangeFractal@gmail.com>
+Section: Themes
