@@ -1,16 +1,16 @@
 ./remove.sh
 
-dpkg-deb -b ArcadeKeypad
-dpkg-deb -b LCDKeypad
-dpkg-deb -b LockGlyphJakandDaxter
-dpkg-deb -b LockGlyphKingdomHearts
-dpkg-deb -b LockGlyphRayman
-dpkg-deb -b LockGlyphSonictheHedgehog
-dpkg-deb -b LockGlyphWorldofWarcraft
-dpkg-deb -b PrecursorKeypad
-dpkg-deb -b RomanNumeralKeypad
-dpkg-deb -b Snipe
-dpkg-deb -b ZeppelinSonictheHedgehog
+dpkg-deb --build ArcadeKeypad
+dpkg-deb --build LCDKeypad
+dpkg-deb --build LockGlyphJakandDaxter
+dpkg-deb --build LockGlyphKingdomHearts
+dpkg-deb --build LockGlyphRayman
+dpkg-deb --build LockGlyphSonictheHedgehog
+dpkg-deb --build LockGlyphWorldofWarcraft
+dpkg-deb --build PrecursorKeypad
+dpkg-deb --build RomanNumeralKeypad
+dpkg-deb --build Snipe
+dpkg-deb --build ZeppelinSonictheHedgehog
 
 dpkg-scanpackages . /dev/null >Packages
 bzip2 Packages
