@@ -1,0 +1,9 @@
+Package: net.orangefractal.LockGlyphWorldofWarcraft
+Name: LockGlyph - World of Warcraft
+Version: 1.0
+Architecture: iphoneos-arm
+Description: World of Warcraft style Lockglyph icons
+Homepage: http://repo.orangefractal.net
+Maintainer: OrangeFractal <OrangeFractal@gmail.com>
+Author: OrangeFractal <OrangeFractal@gmail.com>
+Section: Themes
