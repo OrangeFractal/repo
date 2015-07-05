@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tutorial Repository
 Welcome to this tutorial repository! (I really need a different name for this thing.) This README should give you everything you need to setup your own repository on GitHub or any other web-hoster you hold! For the sake of time and money, I'll be using GitHub for this tutorial, because you know, well, it's free.
 
@@ -80,3 +81,6 @@ This is reaching the end of this tutorial, so now to conclude the repository mak
 Thank you for listening for my ongoing blabber about Debian and how things work. This method is how you would get an actual repository up and running without using myrepospace or any similar service. This method also allows full control over all of your packages to your hearts content, and it allows a neat and clean way to redirect the web address to your custom domain of your choice, using GitHub's CNAME system. (I will not be going into that in this tutorial. Sorry!) I hope you enjoyed this tutorial, and farewell!
 
 &mdash; /u/WinneonSword
+=======
+# repo
+>>>>>>> 4e61bc66fd1a291be40ad82419dbc6af17274702
