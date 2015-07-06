@@ -1,12 +1,15 @@
-run update.sh with updated package names
+run in terminal in cd Desktop/Newrepo/
+./update.sh with updated package names
+
 
 run in terminal in cd Desktop/
 sudo chown -R sean:staff NewRepo/
 
 
+	git init
+	git remote add origin https://github.com/orangefractal/repo.git
 
-git init
-git remote add origin https://github.com/orangefractal/repo.git
+
 git add --all
 git commit -m "update"
 git push origin master
