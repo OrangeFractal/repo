@@ -1,0 +1,176 @@
+Package: net.orangefractal.ArcadeKeypad
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: OrangeFractal <OrangeFractal@gmail.com>
+Filename: ./ArcadeKeypad.deb
+Size: 14938
+MD5sum: 082581ef970585942ae34f9841d83d66
+SHA1: 7a2bc7af537cb01dd1d1cedef30562f86934aec0
+SHA256: f3c583c9cf3a5cf329756e5741556c918fb29ed41d56ca9feea4dd553f3fa00d
+Section: Themes
+Homepage: http://github.com/orangefractal
+Description: Arcade style keypad in black and white
+Author: OrangeFractal <OrangeFractal@gmail.com>
+Depiction: http://repo.orangefractal.net/depictions/ArcadeKeypad.html
+Name: Keypad - Arcade
+
+Package: net.orangefractal.LCDKeypad
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: OrangeFractal <OrangeFractal@gmail.com>
+Filename: ./LCDKeypad.deb
+Size: 20146
+MD5sum: d25d76be775602f2d6e2df5204f43b02
+SHA1: cb51c565fbcc65d4a03df88ff049ef2b5d0b1591
+SHA256: 186c277615f8084507de21c32afeef8af640f67a23b295499ed83c89d736920c
+Section: Themes
+Homepage: http://github.com/orangefractal
+Description: LCD style keypad in black and white
+Author: OrangeFractal <OrangeFractal@gmail.com>
+Depiction: http://repo.orangefractal.net/depictions/LCDKeypad.html
+Name: Keypad - LCD
+
+Package: net.orangefractal.LockGlyphJakandDaxter
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: OrangeFractal <OrangeFractal@gmail.com>
+Filename: ./LockGlyphJakandDaxter.deb
+Size: 127396
+MD5sum: 17154831db6d04c6e676958f86f670bd
+SHA1: 0e17be0c48d3775932bbe0dd9d94eaf51b93c93a
+SHA256: 14a6e3c85c41d9847a9cdc360466c9e8aee4ea137d51ffa0d8d374dfb3263742
+Section: Themes
+Homepage: http://github.com/orangefractal
+Description: Jak and Daxter style Lockglyph icons
+Author: OrangeFractal <OrangeFractal@gmail.com>
+Depiction: http://repo.orangefractal.net/depictions/LockGlyphJakandDaxter.html
+Name: LockGlyph - Jak and Daxter
+
+Package: net.orangefractal.LockGlyphKingdomHearts
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: OrangeFractal <OrangeFractal@gmail.com>
+Filename: ./LockGlyphKingdomHearts.deb
+Size: 469160
+MD5sum: 8b93770892fc30577334b6afdba265b6
+SHA1: 17132407232d56536dcec1078c7c13dbb9ba5336
+SHA256: 6f32650189535efe4f37ec8a0ca6937f3b48e0f330c83a042e031f146d3d74cf
+Section: Themes
+Homepage: http://github.com/orangefractal
+Description: Kingdom Hearts style Lockglyph icons
+Author: OrangeFractal <OrangeFractal@gmail.com>
+Depiction: http://repo.orangefractal.net/depictions/LockGlyphKingdomHearts.html
+Name: LockGlyph - Kingdom Hearts
+
+Package: net.orangefractal.LockGlyphRayman
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: OrangeFractal <OrangeFractal@gmail.com>
+Filename: ./LockGlyphRayman.deb
+Size: 34634
+MD5sum: 0e9364c2bf69efffbd186592ff253f18
+SHA1: 85ce147f4573546bf2427a0cf7dbd69ec01cee86
+SHA256: 2a7863542e3f80aef8735d298ec5d679a175352b8a192448725850d3db04fdde
+Section: Themes
+Homepage: http://github.com/orangefractal
+Description: Rayman style Lockglyph icons
+Author: OrangeFractal <OrangeFractal@gmail.com>
+Depiction: http://repo.orangefractal.net/depictions/LockGlyphRayman.html
+Name: LockGlyph - Rayman
+
+Package: net.orangefractal.LockGlyphSonictheHedgehog
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: OrangeFractal <OrangeFractal@gmail.com>
+Filename: ./LockGlyphSonictheHedgehog.deb
+Size: 99800
+MD5sum: 2e055ccc49b90930ff6c430f541ce8b9
+SHA1: f0a169464fd09d8e45f993a604b4659fdf6370fa
+SHA256: aa944994a727eb2d7d96e55c30f63a5590871d8cc72140e7de181dfe16a12508
+Section: Themes
+Homepage: http://github.com/orangefractal
+Description: Sonic the Hedgehog style Lockglyph icons
+Author: OrangeFractal <OrangeFractal@gmail.com>
+Depiction: http://repo.orangefractal.net/depictions/LockGlyphSonictheHedgehog.html
+Name: LockGlyph - Sonic the Hedgehog
+
+Package: net.orangefractal.LockGlyphWorldofWarcraft
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: OrangeFractal <OrangeFractal@gmail.com>
+Filename: ./LockGlyphWorldofWarcraft.deb
+Size: 787992
+MD5sum: ddc16abd4a74ac7a5f6e919d85fff3d3
+SHA1: 12ebddbc98a587521b47a5e1bc5341edd87c4e2f
+SHA256: 1cab16a665c7cbaf95faa9472f6eb5c663dfda8dcec403c596325554fa82b9a3
+Section: Themes
+Homepage: http://github.com/orangefractal
+Description: World of Warcraft style Lockglyph icons
+Author: OrangeFractal <OrangeFractal@gmail.com>
+Depiction: http://repo.orangefractal.net/depictions/LockGlyphWorldofWarcraft.html
+Name: LockGlyph - World of Warcraft
+
+Package: net.orangefractal.PrecursorKeypad
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: OrangeFractal <OrangeFractal@gmail.com>
+Filename: ./PrecursorKeypad.deb
+Size: 59454
+MD5sum: e8e166fe56d3579629e00b47bcbe687e
+SHA1: 8dbdb040a521e324edf56adabd8882c0651617d7
+SHA256: 20fa7cddc97e28719045640c531e8484b55b934a8a3ec07bc985210bd80d06b5
+Section: Themes
+Homepage: http://github.com/orangefractal
+Description: Precusor style keypad in black and white
+Author: OrangeFractal <OrangeFractal@gmail.com>
+Depiction: http://repo.orangefractal.net/depictions/PrecursorKeypad.html
+Name: Keypad - Precursor
+
+Package: net.orangefractal.RomanKeypad
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: OrangeFractal <OrangeFractal@gmail.com>
+Filename: ./RomanNumeralKeypad.deb
+Size: 31254
+MD5sum: 597b5215c1ab6b90b556222bc8f941dc
+SHA1: 4f6b1ce165d3a6dc0dbab6ad0f8f07ac3da7215d
+SHA256: 315b8d4e18c8db80f89216d9cff9e6bd54004ee3ac1324ee6d43be7d6590bac5
+Section: Themes
+Homepage: http://github.com/orangefractal
+Description: Roman Numeral style keypad in black and white
+Author: OrangeFractal <OrangeFractal@gmail.com>
+Depiction: http://repo.orangefractal.net/depictions/RomanKeypad.html
+Name: Keypad - Roman Numeral
+
+Package: net.orangefractal.Snipe
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: OrangeFractal <OrangeFractal@gmail.com>
+Filename: ./Snipe.deb
+Size: 2586
+MD5sum: b1c2fb48da2306d89477b98da8743007
+SHA1: 1b4f4ba2e4d4b8a927e1e9a40134274bcae54cee
+SHA256: 38c9c06da2871154ae94586636cbf66365e9fdaac2083072f974f7c58313f4b2
+Section: Themes
+Homepage: http://github.com/orangefractal
+Description: Snipe stylized message bubbles
+Author: OrangeFractal <OrangeFractal@gmail.com>
+Depiction: http://repo.orangefractal.net/depictions/Snipe.html
+Name: Message Bubbles - Snipe
+
+Package: net.orangefractal.ZeppelinSonictheHedgehog
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: OrangeFractal <OrangeFractal@gmail.com>
+Filename: ./ZeppelinSonictheHedgehog.deb
+Size: 12754
+MD5sum: bc4c60cf534acbf31c9fad9139fef197
+SHA1: 6042ce778f75dc701bd00b0644ce19b594344b7d
+SHA256: 23c941d942e868ee2076c82509e7a12cccae1dfa849605a915eac4fcd8aeccc2
+Section: Themes
+Homepage: http://github.com/orangefractal
+Description: Sonic the Hedgehog Zeppelin icons
+Author: OrangeFractal <OrangeFractal@gmail.com>
+Depiction: http://repo.orangefractal.net/depictions/ZeppelinSonictheHedgehog.html
+Name: Zeppelin - Sonic the Hedgehog
+
