@@ -1,9 +1,10 @@
 Package: net.orangefractal.LockGlyphSonictheHedgehog
 Name: LockGlyph - Sonic the Hedgehog
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Description: Sonic the Hedgehog style Lockglyph icons
-Homepage: http://orangefractal.net
+Depiction: http://repo.orangefractal.net/depictions/LockGlyphSonictheHedgehog.html
+Homepage: http://github.com/orangefractal
 Maintainer: OrangeFractal <OrangeFractal@gmail.com>
 Author: OrangeFractal <OrangeFractal@gmail.com>
 Section: Themes

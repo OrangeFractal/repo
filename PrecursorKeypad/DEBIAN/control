@@ -1,9 +1,10 @@
 Package: net.orangefractal.PrecursorKeypad
 Name: Precursor Keypad
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Description: Precusor style keypad in black and white
-Homepage: http://orangefractal.net
+Depiction: http://repo.orangefractal.net/depictions/PrecursorKeypad.html
+Homepage: http://github.com/orangefractal
 Maintainer: OrangeFractal <OrangeFractal@gmail.com>
 Author: OrangeFractal <OrangeFractal@gmail.com>
 Section: Themes

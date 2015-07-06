@@ -1,9 +1,10 @@
 Package: net.orangefractal.Snipe
-Name: Snipe Message Bubbles
-Version: 1.0
+Name: Message Bubbles - Snipe
+Version: 1.0.1
 Architecture: iphoneos-arm
 Description: Snipe stylized message bubbles
-Homepage: http://orangefractal.net
+Depiction: http://repo.orangefractal.net/depictions/Snipe.html
+Homepage: http://github.com/orangefractal
 Maintainer: OrangeFractal <OrangeFractal@gmail.com>
 Author: OrangeFractal <OrangeFractal@gmail.com>
 Section: Themes
