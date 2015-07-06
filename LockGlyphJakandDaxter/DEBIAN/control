@@ -1,0 +1,10 @@
+Package: net.orangefractal.LockGlyphJakandDaxter
+Name: LockGlyph - Jak and Daxter
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Jak and Daxter style Lockglyph icons
+Depiction: http://repo.orangefractal.net/depictions/LockGlyphJakandDaxter.html
+Homepage: http://github.com/orangefractal
+Maintainer: OrangeFractal <OrangeFractal@gmail.com>
+Author: OrangeFractal <OrangeFractal@gmail.com>
+Section: Themes

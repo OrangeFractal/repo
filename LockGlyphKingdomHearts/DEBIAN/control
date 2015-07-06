@@ -1,0 +1,10 @@
+Package: net.orangefractal.LockGlyphKingdomHearts
+Name: LockGlyph - Kingdom Hearts
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Kingdom Hearts style Lockglyph icons
+Depiction: http://repo.orangefractal.net/depictions/LockGlyphKingdomHearts.html
+Homepage: http://github.com/orangefractal
+Maintainer: OrangeFractal <OrangeFractal@gmail.com>
+Author: OrangeFractal <OrangeFractal@gmail.com>
+Section: Themes
