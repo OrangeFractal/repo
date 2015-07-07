@@ -1,2 +1,2 @@
-# Cydia Repository
-OrangeFractal's Cydia Repository :)
+# Cydia Repository :)
+OrangeFractal's Cydia Repository
