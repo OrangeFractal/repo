@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: OrangeFractal <OrangeFractal@gmail.com>
 Filename: debs//ArcadeKeypad.deb
 Size: 14462
-MD5sum: F1168A0534C8C50467FA98627C969799
-SHA1: 4B21919D2D75A38C3FCA5B6E48B6A299680223F1
-SHA256: 2755DA8BE80E0B2468C26018194465DE6518FBE3D3129C56DAB730E21BC7F974
+MD5sum: f1168a0534c8c50467fa98627c969799
+SHA1: 4b21919d2d75a38c3fca5b6e48b6a299680223f1
+SHA256: 2755da8be80e0b2468c26018194465de6518fbe3d3129c56dab730e21bc7f974
 Section: Themes
 Homepage: http://github.com/orangefractal
 Description: Arcade style keypad in black and white
