@@ -175,14 +175,14 @@ Depiction: http://repo.orangefractal.net/depictions/ZeppelinSonictheHedgehog.htm
 Name: Zeppelin - Sonic the Hedgehog
 
 Package: net.orangefractal.MorseCodeKeypad
-Version: 1.0.2
+Version: 1.0.3
 Architecture: iphoneos-arm
 Maintainer: OrangeFractal <OrangeFractal@gmail.com>
 Filename: debs//MorseCodeKeypad.deb
-Size: 22216
-MD5sum: 11d86abab7f3da973cfee17046393341
-SHA1: fae318a4c334e5242f9195c9a5ffe6b1e144b8d9
-SHA256: ac40d6c51de5dc81d5e57a689d2fbdae4a848088e505387237ff87b92bf769df
+Size: 22212
+MD5sum: 6df45a815b006194897f3a1705ec2178
+SHA1: 150a24ef8bd3f192e794a9bfbbfe34cde2751af3
+SHA256: 742bdfa80dbb507e069a0594e59a5c0d42525f4dd2ed54fa73fb91222dc3b074
 Section: Themes
 Homepage: http://github.com/orangefractal
 Description: Morse Code style keypad in black and white
