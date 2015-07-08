@@ -126,7 +126,7 @@ Author: OrangeFractal <OrangeFractal@gmail.com>
 Depiction: http://repo.orangefractal.net/depictions/PrecursorKeypad.html
 Name: Keypad - Precursor
 
-Package: net.orangefractal.RomanNumeralKeypad
+Package: net.orangefractal.RomanKeypad
 Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: OrangeFractal <OrangeFractal@gmail.com>
