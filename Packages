@@ -1,12 +1,12 @@
 Package: net.orangefractal.ArcadeKeypad
-Version: 1.0.2
+Version: 1.0.3
 Architecture: iphoneos-arm
 Maintainer: OrangeFractal <OrangeFractal@gmail.com>
 Filename: debs//ArcadeKeypad.deb
-Size: 14462
-MD5sum: f1168a0534c8c50467fa98627c969799
-SHA1: 4b21919d2d75a38c3fca5b6e48b6a299680223f1
-SHA256: 2755da8be80e0b2468c26018194465de6518fbe3d3129c56dab730e21bc7f974
+Size: 14670
+MD5sum: 6a429f54b76ccb9b8cc5ff753539e475
+SHA1: 8bcc432e61a08584ed6b0775401a1e2f675e57cb
+SHA256: b3a2ba209640e225c8c1d98ef2289eb2759468242635ede4f2644a34712a0cf4
 Section: Themes
 Homepage: http://github.com/orangefractal
 Description: Arcade style keypad in black and white
@@ -15,14 +15,14 @@ Depiction: http://repo.orangefractal.net/depictions/ArcadeKeypad.html
 Name: Keypad - Arcade
 
 Package: net.orangefractal.LCDKeypad
-Version: 1.0.2
+Version: 1.0.3
 Architecture: iphoneos-arm
 Maintainer: OrangeFractal <OrangeFractal@gmail.com>
 Filename: debs//LCDKeypad.deb
-Size: 18734
-MD5sum: 8bc8ade7d9679186fe040e698bf062e7
-SHA1: 93958959ef761ef9490f034de01f06d9d040f646
-SHA256: 1285ee84d0ccc31dbb5d2cbaec966b904539d2a891e94405941142b0116fab35
+Size: 18934
+MD5sum: 8f4f106de6ed15ea0fe9051ab04d0315
+SHA1: 3cf91db45da84d5413f22ed7ce1d5e6dbc71574e
+SHA256: 75d5f3ada03d8e574384b577e4ff5566664f2556205a732a4b911de7980bf909
 Section: Themes
 Homepage: http://github.com/orangefractal
 Description: LCD style keypad in black and white
@@ -111,14 +111,14 @@ Depiction: http://repo.orangefractal.net/depictions/LockGlyphWorldofWarcraft.htm
 Name: LockGlyph - World of Warcraft
 
 Package: net.orangefractal.PrecursorKeypad
-Version: 1.0.2
+Version: 1.0.3
 Architecture: iphoneos-arm
 Maintainer: OrangeFractal <OrangeFractal@gmail.com>
 Filename: debs//PrecursorKeypad.deb
-Size: 49720
-MD5sum: a4feb6b97f0d4450306b6d6aa99c1a50
-SHA1: f7aaa7fd442b2f0eb730ffa6a58d09f58a3eb362
-SHA256: 7275ff786851298294038b9aea1c25bcebba52f67bdd86be26d19cdd3fac2ef0
+Size: 49974
+MD5sum: 55f56ebabd81cef9cbf99cd2663d047e
+SHA1: 9d014aafd3d68c53437b046840bfa3faa34a39fe
+SHA256: 75c36df4c918bb6d4236495dd5bb2f8dfe09eebc560a716b15d43b3806af4fe7
 Section: Themes
 Homepage: http://github.com/orangefractal
 Description: Precusor style keypad in black and white
@@ -126,15 +126,15 @@ Author: OrangeFractal <OrangeFractal@gmail.com>
 Depiction: http://repo.orangefractal.net/depictions/PrecursorKeypad.html
 Name: Keypad - Precursor
 
-Package: net.orangefractal.RomanKeypad
-Version: 1.0.1
+Package: net.orangefractal.RomanNumeralKeypad
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: OrangeFractal <OrangeFractal@gmail.com>
 Filename: debs//RomanNumeralKeypad.deb
-Size: 26560
-MD5sum: d69e7cd51bb65e6d7a1f2f1abd19bfac
-SHA1: e005dd2c183970f59d9e0c6128448ecfb25849b7
-SHA256: 0933302b83b1a30abdcd96d4556514b786c09fef844a9f0d70d436c7e7eca6ad
+Size: 26654
+MD5sum: 95806c19dd317401a70e652daac65a77
+SHA1: f64d1ed0ee011e5a7d4d5b1f49863382febca46b
+SHA256: 2affecf9d150d907aa36b83b7fb9899c14942dd573c93a564c22922a52dc9951
 Section: Themes
 Homepage: http://github.com/orangefractal
 Description: Roman Numeral style keypad in black and white
@@ -175,14 +175,14 @@ Depiction: http://repo.orangefractal.net/depictions/ZeppelinSonictheHedgehog.htm
 Name: Zeppelin - Sonic the Hedgehog
 
 Package: net.orangefractal.MorseCodeKeypad
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: OrangeFractal <OrangeFractal@gmail.com>
 Filename: debs//MorseCodeKeypad.deb
-Size: 22036
-MD5sum: fabf86584fcac9f529e7897555711578
-SHA1: e9fa7777a7907e8ff73c55ca53f72fffcb22e741
-SHA256: aa767593f2418b1fd9a71695f30fff7cef0d750ac123c1bcec990e221be1f726
+Size: 22216
+MD5sum: 11d86abab7f3da973cfee17046393341
+SHA1: fae318a4c334e5242f9195c9a5ffe6b1e144b8d9
+SHA256: ac40d6c51de5dc81d5e57a689d2fbdae4a848088e505387237ff87b92bf769df
 Section: Themes
 Homepage: http://github.com/orangefractal
 Description: Morse Code style keypad in black and white

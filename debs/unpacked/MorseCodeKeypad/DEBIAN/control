@@ -1,6 +1,6 @@
 Package: net.orangefractal.MorseCodeKeypad
 Name: Keypad - Morse Code
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Description: Morse Code style keypad in black and white
 Depiction: http://repo.orangefractal.net/depictions/MorseCodeKeypad.html

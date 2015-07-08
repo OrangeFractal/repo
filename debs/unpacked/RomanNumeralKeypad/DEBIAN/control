@@ -1,6 +1,6 @@
 Package: net.orangefractal.RomanKeypad
 Name: Keypad - Roman Numeral
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Description: Roman Numeral style keypad in black and white
 Depiction: http://repo.orangefractal.net/depictions/RomanKeypad.html

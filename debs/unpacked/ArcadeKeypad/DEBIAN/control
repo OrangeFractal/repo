@@ -1,6 +1,6 @@
 Package: net.orangefractal.ArcadeKeypad
 Name: Keypad - Arcade
-Version: 1.0.2
+Version: 1.0.3
 Architecture: iphoneos-arm
 Description: Arcade style keypad in black and white
 Depiction: http://repo.orangefractal.net/depictions/ArcadeKeypad.html
