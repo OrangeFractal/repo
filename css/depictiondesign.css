@@ -1,0 +1,36 @@
+h1 {
+font-family:  'Hoefler Text', Georgia, 'Times New Roman', serif;
+  color: black;
+	font-size: 35px;
+	letter-spacing: -.5px;
+	font-weight: normal;
+  text-align:center;
+  margin:0px;
+}
+
+h2 {
+font-family:  'Hoefler Text', Georgia, 'Times New Roman', serif;
+  color: #333333;
+	font-size: 23px;
+	letter-spacing: -1px;
+	font-weight: normal;
+  text-align:center;
+  margin:8px;
+}
+
+h3 {
+font-family:  'Hoefler Text', Georgia, 'Times New Roman', serif;
+  color: #666666;
+	font-size: 18px;
+	letter-spacing: -1px;
+	font-weight: normal;
+  text-align:center;
+  margin:2px;
+}
+
+p {
+  margin:0px;
+  color: #999999;
+  font-size: 15px;
+  text-align:center;
+}
