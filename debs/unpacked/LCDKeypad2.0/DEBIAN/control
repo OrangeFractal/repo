@@ -1,0 +1,10 @@
+Package: net.orangefractal.LCDKeypad2.0
+Name: Keypad - LCD 2.0
+Version: 2.0
+Architecture: iphoneos-arm
+Description: An alternate version of the LCD styled keypad that shows letters below the numbers on the keypad
+Depiction: http://repo.orangefractal.net/depictions/LCDKeypad2.0.html
+Homepage: http://github.com/orangefractal
+Maintainer: OrangeFractal <OrangeFractal@gmail.com>
+Author: OrangeFractal <OrangeFractal@gmail.com>
+Section: Themes
