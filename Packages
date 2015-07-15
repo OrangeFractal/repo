@@ -191,14 +191,14 @@ Depiction: http://repo.orangefractal.net/depictions/MorseCodeKeypad.html
 Name: Keypad - Morse Code
 
 Package: net.orangefractal.LCDKeypad2.0
-Version: 2.0
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: OrangeFractal <OrangeFractal@gmail.com>
 Filename: debs//LCDKeypad2.0.deb
-Size: 35812
-MD5sum: c40177b2a5d75441cfac10a4b50f9776
-SHA1: 5afc3064926f4ff4470fe1caa9ace6be06436096
-SHA256: 6c21a61943768096a8f70278e4d14241436e43b07d14aecf72a02c69ef1a9bcf
+Size: 56484
+MD5sum: bafeb4f2737cf957d133db0d60649d35
+SHA1: c9477249e53b83124aee206bfe8d551c3ff122a5
+SHA256: 2af5da3605a49f6db45f4c8da4b85b367e81ee35f95e0dadc1233264b9f0bf48
 Section: Themes
 Homepage: http://github.com/orangefractal
 Description: An alternate version of the LCD styled keypad that shows letters below the numbers on the keypad
