@@ -207,14 +207,14 @@ Depiction: http://repo.orangefractal.net/depictions/LCDKeypad2.0.html
 Name: Keypad - LCD 2.0
 
 Package: net.orangefractal.w0rdKeypad
-Version: 1.1
+Version: 1.1.1
 Architecture: iphoneos-arm
 Maintainer: OrangeFractal <OrangeFractal@gmail.com>
 Filename: debs//w0rdKeypad.deb
-Size: 46884
-MD5sum: 24bf11be9a4c8c70d51e6e9d37bb50f3
-SHA1: 4315528ae4e1fcc35d043337caecd409c5400730
-SHA256: d5d25050d99070a82ee44675db7b430ad2955edab494a0d7fcb0759f535ed4d6
+Size: 52236
+MD5sum: 8537ba470358f4ec1dc9f298dc1db326
+SHA1: 4089bc9821f44a599d2de17ae38b8606af6b084e
+SHA256: 445c44173dfd75424e8b02e5ab3a00227b023980db9e2924a5489a828d330efb
 Section: Themes
 Homepage: http://github.com/orangefractal
 Description: A numbered and worded keypad in black and white

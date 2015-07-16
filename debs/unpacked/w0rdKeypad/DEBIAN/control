@@ -1,6 +1,6 @@
 Package: net.orangefractal.w0rdKeypad
 Name: Keypad - w0rd
-Version: 1.1
+Version: 1.1.1
 Architecture: iphoneos-arm
 Description: A numbered and worded keypad in black and white
 Depiction: http://repo.orangefractal.net/depictions/w0rdKeypad.html
