@@ -1,5 +1,4 @@
-# Cydia Repository :)
-OrangeFractal's Cydia Repository
+#OrangeFractal's Cydia Repository :)
 
 Add the link below to cydia!
 
