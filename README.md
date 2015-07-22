@@ -3,4 +3,4 @@ OrangeFractal's Cydia Repository
 
 add this to cydia!
 
-[**repo.orangefractal.net**](https://repo.orangefractal.net)
+[**repo.orangefractal.net**](http://repo.orangefractal.net)
