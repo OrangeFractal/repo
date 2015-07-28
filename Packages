@@ -15,14 +15,14 @@ Depiction: http://repo.orangefractal.net/depictions/ArcadeKeypad.html
 Name: Keypad - Arcade
 
 Package: net.orangefractal.LCDKeypad
-Version: 1.0.3
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: OrangeFractal <OrangeFractal@gmail.com>
 Filename: debs//LCDKeypad.deb
-Size: 18934
-MD5sum: 8f4f106de6ed15ea0fe9051ab04d0315
-SHA1: 3cf91db45da84d5413f22ed7ce1d5e6dbc71574e
-SHA256: 75d5f3ada03d8e574384b577e4ff5566664f2556205a732a4b911de7980bf909
+Size: 34978
+MD5sum: 4888ce8f42d72cd8a4f56eb2b652599e
+SHA1: a1185dc31bfdaae9038244ef710b73885763041e
+SHA256: e44223b4a2bee1f9f78e9220bfd235aa118dbc5a15d2e01345bfbc711d133908
 Section: Themes
 Homepage: http://github.com/orangefractal
 Description: LCD style keypad in black and white
